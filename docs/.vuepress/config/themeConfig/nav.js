@@ -18,6 +18,10 @@ module.exports = [
   },
   {
     text: 'APP下载',
-    link: 'https://www.yd-mobile.cn/pack/download?versionId=2497&packName=com.xiaoyou.interview'
+    link: 'https://www.yd-mobile.cn/pack/download?versionId=3127&packName=com.xiaoyou.code'
+  },
+  {
+    text: 'GitHub',
+    link: 'https://github.com/xiaoyou66/code-learn'
   }
 ]
