@@ -43,9 +43,5 @@ module.exports = [
   {
     text: 'APP下载',
     link: 'https://www.yd-mobile.cn/pack/download?versionId=4291&packName=com.xiaoyou.code'
-  },
-  {
-    text: 'GitHub',
-    link: 'https://github.com/xiaoyou66/code-learn'
   }
 ]
