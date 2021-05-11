@@ -21,12 +21,12 @@ module.exports = [
     text: '框架|软件',
     link: '/software/',
     items: [
-      { text: 'Docker', link: '/pages/acfba7/' },
-      { text: 'MySQL', link: '/pages/d31504/' },
-      { text: 'MongoDB', link: '/pages/86ce77/' },
-      { text: 'kafka', link: '/pages/7491eb/' },
-      { text: 'Elasticsearch', link: '/pages/234e44/' },
+      { text: '数据库', link: '/pages/d31504/' },
+      { text: '容器', link: '/pages/acfba7/' },
       { text: '微服务', link: '/pages/534d2e/' },
+      { text: '消息队列', link: '/pages/7491eb/' },
+      { text: '搜索引擎', link: '/pages/234e44/' },
+      { text: '大数据', link: '/pages/41a8b9/' },
     ],
   },
   {
@@ -39,6 +39,14 @@ module.exports = [
   {
     text: '其他',
     link: '/other/'
+  },
+  {
+    text: '大数据和深度学习',
+    link: '/bigdata/',
+    items: [
+      { text: '大数据', link: '/pages/24ce46/' },
+      { text: '深度学习', link: '/pages/da14d9/' }
+    ],
   },
   {
     text: 'APP下载',
