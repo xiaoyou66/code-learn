@@ -6,8 +6,9 @@
   <a href="https://github.com/xiaoyou66/code-learn/actions?query=workflow%3ACI"><img src="https://github.com/xiaoyou66/code-learn/workflows/CI/badge.svg" alt="CI"></a>
   <a href="https://github.com/xiaoyou66/code-learn"><img src="https://img.shields.io/github/stars/xiaoyou66/code-learn?logo=ReverbNation&logoColor=rgba(255,255,255,.6)" alt="GitHub stars"></a>
    <a href="https://github.com/xiaoyou66/code-learn"> <img src="https://badgen.net/github/forks/xiaoyou66/code-learn?icon=github"></a>
-<h1 align="center">📖程序员书籍笔记</h1>
+<h1 align="center">📖程序员学习笔记</h1>
 <h4 align="center">一个码农的学习笔记</h4>
+
 
 在线阅读地址：[程序语言学习笔记](http://code.xiaoyou66.com/)
 
